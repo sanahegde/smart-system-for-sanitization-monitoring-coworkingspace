@@ -1,0 +1,1 @@
+# smart-system-for-sanitization-monitoring-coworkingspace
